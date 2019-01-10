@@ -1,3 +1,5 @@
-This is just a temp repo so some folks external to BouncyRock can report some of the bugs in the unreleased alpha.
+Hi, thanks for taking the time to come and report an issue!
 
-We will clean thsi up or move it somewhere more convenient soon
+To ensure your issue can be fixed please follow the issue template and provide all the steps you can so we know exactly how to recreate the problem. The easier it is to recreate, the easier it is for it to be fixed (usually anyway :D).
+
+Click on the `Issues` tab above or just click [here]()
