@@ -12,7 +12,7 @@ Here tell us what you thought was meant to happen and then how TaleSpire vomited
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Punch and ogre '...'
+1. Punch an ogre '...'
 2. Set a chair on fire '....'
 3. Tried to open a door '....'
 4. TaleSpire crashed
