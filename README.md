@@ -1,7 +1,7 @@
-Hi, thanks for taking the time to come and report an issue!
+# ISSUES TRACKING HAS MOVED
 
-To ensure your issue can be fixed please follow the issue template and provide all the steps you can so we know exactly how to recreate the problem. The easier it is to recreate, the easier it is for it to be fixed (usually anyway :D).
+https://github.com/Bouncyrock/TaleSpire-Beta-Public-Issue-Tracker/issues
 
-Click on the `Issues` tab above or just click [here](https://github.com/Bouncyrock/TaleSpire-Alpha-Public-Issue-Tracker/issues)
+Thanks to everyone who helped out with bug hunting in the Alpha. With the start of the Beta, the Alpha has concluded. We have started a new issue tracker to handle the issues in the Beta.
 
-Please note that we arent tracking feature requests here. Only things broken in current builds of TaleSpire.
+Click the link above to head there now!
